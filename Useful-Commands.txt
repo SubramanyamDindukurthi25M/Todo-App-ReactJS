@@ -1,0 +1,9 @@
+1)To install Sass
+  npm install sass --save-dev
+
+2)To install Fontawesome
+  npm install react-icons --save
+  import { IconName } from "react-icons/fa";
+
+3)To install sweetalert
+  npm i sweetalert
